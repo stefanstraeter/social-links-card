@@ -15,6 +15,10 @@ Users should be able to:
 - Solution URL: [GitHub Repository](https://github.com/stefanstraeter/social-links-card)
 - Live Site URL: [Live Demo](https://stefanstraeter.github.io/social-links-card/)
 
+### Screenshot
+
+![Urban Eats Screenshot](assets/images/social-links-profile-screenshot.png)
+
 ## My process
 
 ### Built with
@@ -38,4 +42,5 @@ This project helped reinforce my understanding of:
 
 - GitHub (https://github.com/stefanstraeter)
 - Frontend (https://www.frontendmentor.io/profile/stefanstraeter)
+
 # social-links-card
